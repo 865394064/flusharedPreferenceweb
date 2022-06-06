@@ -43,6 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // await prefs.setInt('count', count);
     setState(() {
       sharedPreferences;
+
     });
   }
 
